@@ -13,4 +13,4 @@ This repository contains the second assignment for the Digital Logic Circuit Des
 - Questa Simulator
 
 ## Description
-The assignment focuses on implementing and simulating digital logic circuits, including a JK Flip-Flop, using VHDL and Logisim.
+The assignment focuses on implementing and simulating digital logic circuits, using VHDL and Logisim.
